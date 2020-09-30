@@ -1,0 +1,19 @@
+body {
+	width: 50%;
+	margin: auto;
+	padding: 100px;
+}
+
+.centerDiv {
+	display: flex;
+	flex-direction: column;
+}
+
+.btn {
+	width: 100%;
+}
+
+h1, h3 {
+	text-align: center;
+	margin: 1rem;
+}
